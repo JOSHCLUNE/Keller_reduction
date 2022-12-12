@@ -57,7 +57,7 @@ This section is included to help readers find various lemmas/theorems/definition
 * Lemma 6 is implemented as `s_discrete_upper_bound` in `s_discrete.lean`
 * The clique verification described in section 5 is implemented in `verified_clique.lean`, culminating in the final theorem `G_8_2_has_clique` which is used to prove `Keller_conjecture_false` in `keller_implies_no_clique.lean`
 
-XXXXX's Clique Verification
+Carneiro's Clique Verification
 --
 
 In Section 5.3 of the paper, we reference an alternative verification of the G_8 clique. This verification is included in the `Lean4_Clique` directory. Specifically, it is included in `Lean4_Clique/Clique/Clique.lean`. Note that unlike the rest of our code, this verification is implemented in Lean 4, rather than Lean 3.

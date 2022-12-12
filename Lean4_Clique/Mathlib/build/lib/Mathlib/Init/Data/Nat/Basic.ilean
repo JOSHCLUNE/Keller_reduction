@@ -1,0 +1,1 @@
+{"version":1,"references":{"c:Nat.instDvdNat":{"usages":[],"definition":[11,0,11,8]},"c:Nat":{"usages":[[11,15,11,16]],"definition":null},"c:Dvd.dvd":{"usages":[[12,2,12,5]],"definition":null},"c:Dvd":{"usages":[[11,11,11,14]],"definition":null}},"module":"Mathlib.Init.Data.Nat.Basic"}

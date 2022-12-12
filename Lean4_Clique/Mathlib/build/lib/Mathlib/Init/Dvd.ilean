@@ -1,0 +1,1 @@
+{"version":1,"references":{"c:Dvd.mk":{"usages":[],"definition":[0,6,0,9]},"c:Dvd.dvd":{"usages":[],"definition":[1,2,1,5]},"c:Dvd":{"usages":[],"definition":[0,6,0,9]}},"module":"Mathlib.Init.Dvd"}

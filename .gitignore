@@ -1,0 +1,5 @@
+.DS_Store
+_target/
+leanpkg.path
+# Temporarily allowing .olean files so that I can store the verified_clique olean files
+# *.olean

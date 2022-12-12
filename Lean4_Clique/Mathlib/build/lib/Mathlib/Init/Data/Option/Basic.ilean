@@ -1,0 +1,1 @@
+{"version":1,"references":{"c:Option.some":{"usages":[[9,2,9,6]],"definition":null},"c:Option.isSome":{"usages":[[8,41,8,47]],"definition":null},"c:Option.get":{"usages":[],"definition":[8,4,8,7]},"c:Option":{"usages":[[8,30,8,36]],"definition":null}},"module":"Mathlib.Init.Data.Option.Basic"}

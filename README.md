@@ -6,11 +6,11 @@ Installation (from repository)
 * Then you can either:
     * Run the following to let leanproject clone and build the repository automatically:
       ```
-      $ leanproject get [url of this repository]
+      $ leanproject get https://github.com/JOSHCLUNE/Keller_reduction.git 
       ```
     * or manually run:
       ```
-      $ git clone [url of this repository]
+      $ git clone https://github.com/JOSHCLUNE/Keller_reduction.git 
       $ cd Keller_reduction
       $ leanproject build
       ```
